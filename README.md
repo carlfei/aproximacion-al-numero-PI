@@ -17,14 +17,24 @@ Para desarrollar el método empleo el concepto de arco capaz de semicircunferenc
 Las hipotenusas se calculan en la diferencia de posición entre dos vértices consecutivos del triángulo rectángulo que recorre el cuarto de circunferencia.
 
 Diámetro = Ø
+
 Diferencia de x = Δx
+
 Hipotenusa = H
+
 Δx = 1/(intervalo)
+
 Diferencia de y = Δy
+
 ρ = (Ø – (x+Δx))
+
 y0 =  Ø/2
+
 2y21 + x2 + ρ2 = Ø2
+
 Δy0 = y0 – y1   ,  Δyn = yn-1 - yn
 n = intervalo
+
 H2 =  Δx2 + Δy2
+
 ΣHn0 ≈ ϖ/4
